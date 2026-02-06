@@ -1,0 +1,8 @@
+
+#ifndef LECTURE_03_2406_CONSTANTS_H
+#define LECTURE_03_2406_CONSTANTS_H
+
+const float GST = 0.09;
+const float SERVICE_CHARGE_RATE = 0.10;
+
+#endif //LECTURE_03_2406_CONSTANTS_H
