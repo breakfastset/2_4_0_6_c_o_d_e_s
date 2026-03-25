@@ -1,0 +1,12 @@
+abstract classes
+- classes that are not realized
+- good parents (Categories)
+- but bad standalone type
+- eg. Shape, Vehicle
+-     ->how to calculate area()?
+
+template is similar to abstract class
+- class with an unknown type
+- not as a parent-child relationship
+- abstract because you cannot create objects without giving
+  the actual type to this class
